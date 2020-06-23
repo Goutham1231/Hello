@@ -1,0 +1,9 @@
+main()
+{
+char name[]="Conduira";
+int i=0;
+while(i!='\0'){
+printf("%c",name[i]);
+i++;
+}
+}
